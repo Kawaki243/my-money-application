@@ -126,25 +126,6 @@ cd backend
 - **User Panel:** `http://localhost:5173/`
 - **Backend Panel:** `http://localhost:8080/api/v1.0/`
 
-  ## 📸 Screenshots  
-
-### Dashboard View  
-![Dashboard](pics/Dashboard.png)  
-![Dashboard](pics/Dashboard_transactions.png)  
-
-### Categories & Transactions  
-![Categories](pics/Category.png)  
-
-### Incomes & Transactions
-![Incomes](pics/Income_chart.png)
-![Incomes](pics/Income_Sources.png)
-
-### Expense & Transactions
-![Incomes](pics/Expense_chart.png)
-![Incomes](pics/Expense_sources.png)
-
-### Filter
-![Filter](pics/Filter.png)  
 
 ## 🚀 Usage
 Once both backend and frontend servers are running, open your browser:  
