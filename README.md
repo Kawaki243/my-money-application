@@ -6,8 +6,8 @@
 With a modular architecture for maintainability and scalability, this project is ideal for developers who want to build or extend a comprehensive financial dashboard.
 
 ## 🌐 Live Demo
-Try out the application here: [My Money Application Demo](https://mymoney243.netlify.app/).
-🧠 Remember to use your **Valid Email** to register your account beacause you have to verify your email before logging in to this application.
+ - Try out the application here: [My Money Application Demo](https://mymoney243.netlify.app/).
+ - 🧠 Remember to use your **Valid Email** to register your account beacause you have to verify your email before logging in to this application.
 
 ### 🛠️ Tech Stack
 - **Backend:** 🖥️ Java, Spring boot, Spring MVC, Spring Data JPA , Spring security 
